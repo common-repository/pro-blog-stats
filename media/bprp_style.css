@@ -1,0 +1,199 @@
+a#bprp-seo-analysis-analyze-button.bprp-disabled {
+	color: #aaa !important;
+	display: none;
+}
+
+#bprp-https-warning {
+	margin: 5px 0 15px;
+	border-color: #E6DB55;
+	-moz-border-radius:3px;
+	-moz-border-radius:3px;
+	-moz-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius: 3px;
+	border-style:solid;
+	border-width:1px;
+	padding:0 0.6em;
+}
+
+#bprp-https-warning p {
+	line-height:1;
+	margin:0.5em 0;
+	padding:2px;
+}
+
+#bprp-ajax-feedback {
+	display: none;
+}
+
+#bprp-error-message {
+	margin: 0;
+	padding: .5em;
+}
+
+.bprp-center {
+	text-align: center;
+}
+
+.bprp-error {
+	color: #f00;
+}
+
+.scorecard-option-title {
+	font-weight: bold;
+}
+
+.bprp-learn-more {
+    border-bottom: 1px dashed #000;
+}
+
+#bprp-seo-analysis-requirement-list .incomplete .complete, #bprp-seo-analysis-requirement-list .complete .incomplete {
+    display: none;
+}
+
+#bprp-analysis-score-table .complete, #bprp-analysis-score-table .incomplete, #bprp-analysis-score-table .warn {
+    padding-left: 50px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 16px;
+}
+
+#bprp-analysis-score-table li {
+    margin: 0;
+    padding: 5px 0;
+}
+
+#overall-score-analysis {
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+#bprp-analysis-score-table .bprp-middle-cell {
+    vertical-align: middle;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+#bprp-analysis-score-table .bprp-no-pad {
+    padding: 0;
+}
+
+#bprp-score-analysis-overview {
+    width: 185px;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+#bprp-analysis-score-table .complete {
+    background-image: url('images/complete.png');
+}
+
+#bprp-analysis-score-table .incomplete {
+    background-image: url('images/incomplete.png');
+}
+
+#bprp-analysis-score-table .warn {
+    background-color: #FFFFCC;
+    background-image: url('images/warn.png');
+}
+
+#bprp-seo-analysis-requirement-list span {
+    padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    min-height: 16px;
+    display: block;
+}
+
+#bprp-seo-analysis-requirement-list span.complete {
+    background-image: url('images/complete.png');
+}
+
+#bprp-seo-analysis-requirement-list span.incomplete {
+    background-image: url('images/incomplete.png');
+}
+
+#bprp-analyze-action {
+    -moz-background-clip: border;
+    -moz-background-inline-policy: continuous;
+    -moz-background-origin: padding;
+    border-top: medium none;
+    clear: both;
+    padding: 6px;
+    background: #EAF2FA none repeat scroll 0 0;
+    margin: 0 -6px -6px;
+}
+
+#bprp-review-score {
+    width: 106px;
+    float: left;
+    text-align: center;
+}
+
+#bprp-review-keywords {
+	float: left;
+}
+
+#bprp-review-score-number {
+    font-size: 2em;
+}
+
+#bprp-tags {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    background: #F1F1F1;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+}
+
+.bprp-score-low {
+    color: #f00;
+}
+
+.bprp-score-medium {
+    color: #D5A03C;
+}
+
+.bprp-score-high {
+    color: #6DB457;
+}
+
+.bprp-score-low-background {
+	background: #FFEBE8;
+}
+
+.bprp-score-medium-background {
+	background: #FFFBCC;
+}
+
+.bprp-score-high-background {
+	background: #90EE90;
+}
+
+#bprp-google-item {
+	border:1px solid #8DB4E0;
+	padding:10px 15px;
+}
+
+.bprp-google-item-title {
+	color:blue;
+	font-size:123.1%;
+	padding:0 !important;
+	text-decoration:underline;
+}
+
+.bprp-google-item-detail {
+	display:block;
+	width:544px;
+}
+
+.bprp-google-item-url {
+	color:#339933;
+}
+
+
+
